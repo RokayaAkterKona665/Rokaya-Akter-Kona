@@ -10,7 +10,7 @@
 ### 💡 About Me
 
 - 🎓 Business graduate with a passion for data-driven decision making  
-- 📚 Currently learning **Python**, **Tableau** 
+- 📚 Currently learning **Python**, **Tableau** ,**SQL**, **App Script**, **VBA**
 - 🛠️ Tools I use: `SQL`, `Excel`, `Tableau`, `Python` 
 - 🧪 Exploring data analytics through real-world case studies and projects  
 - 🌱 On a mission to build a strong portfolio
